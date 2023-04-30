@@ -57,3 +57,7 @@ footer p{
 nav a:hover{
     color: green;
 }
+
+h3:hover{
+    color: black;
+}
